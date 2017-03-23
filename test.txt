@@ -1,1 +1,1 @@
-PHP is the worst language!
+PHP is not the worst language!
